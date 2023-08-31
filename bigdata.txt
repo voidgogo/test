@@ -1,2 +1,3 @@
 week01
 - git
+- git init, git status, git add, git config, git commit
